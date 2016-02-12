@@ -1,0 +1,23 @@
+{
+  "name": "angular-translation",
+  "description": "AngularJS plugin for managing translation strings",
+  "main": "build/js/angular-translation.js",
+  "authors": [
+    "J Andrew Scott <jascott@programmer.net> (http://rubberchickenfarm.com)"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "package.json",
+    "gulpfile.js"
+  ],
+  "devDependencies": {
+    "angular": "~1.4.9",
+    "angular-mocks": "~1.4.9"
+  }
+}
